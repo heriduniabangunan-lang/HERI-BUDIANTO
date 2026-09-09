@@ -1,0 +1,10 @@
+{
+  "name": "KEDAI TERAS MAMIH - Kasir & Stok",
+  "description": "Aplikasi Kasir Android KEDAI TERAS MAMIH (Jajanan Halal & Murah) dengan manajemen stok otomatis, pemindai barcode, printer Bluetooth thermal, dan laporan real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
